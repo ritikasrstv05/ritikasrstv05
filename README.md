@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikas28508334" target="blank"><img src="https://img.shields.io/twitter/follow/ritikas28508334?logo=twitter&style=for-the-badge" alt="ritikas28508334" /></a> </p>
 
-- 🔭 I’m currently working on [Fake News Detector](https://github.com/ritikasrstv05/Fake-News)
+- 🔭 I’m currently working on [Image Recogination](https://github.com/ritikasrstv05/Fake-News)
 
 - 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
